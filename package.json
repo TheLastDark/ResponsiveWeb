@@ -1,0 +1,25 @@
+{
+  "name": "responsive",
+  "version": "1.0.0",
+  "description": "响应式网页",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheLastDark/ResponsiveWeb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheLastDark/ResponsiveWeb/issues"
+  },
+  "homepage": "https://github.com/TheLastDark/ResponsiveWeb#readme",
+  "dependencies": {
+    "gulp": "^4.0.1"
+  },
+  "devDependencies": {
+    "swiper": "^4.5.0"
+  }
+}
